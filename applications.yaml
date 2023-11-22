@@ -1089,6 +1089,10 @@
     matching_strategy: Equals
   options:
   - tray_and_multi_window
+  float_identifiers:
+  - kind: Title
+    id: ShareX -
+    comment: Popup windows seems to start with this
 - name: Sideloadly
   identifier:
     kind: Exe
