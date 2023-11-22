@@ -1117,6 +1117,14 @@
   options:
   - border_overflow
   - tray_and_multi_window
+- name: VLC media player
+  identifier:
+    kind: Exe
+    id: vlc.exe
+    matching_strategy: Equals
+  float_identifiers:
+  - kind: Class
+    id: Qt5QWindowIcon
 - name: VRCX
   identifier:
     kind: Exe
