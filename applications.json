@@ -904,6 +904,17 @@
       }
     ]
   },
+  "GitKraken": {
+    "ignore": [
+      [
+        {
+          "kind": "Exe",
+          "id": "gitkraken.exe",
+          "matching_strategy": "Equals"
+        }
+      ]
+    ]
+  },
   "Godot Engine": {
     "object_name_change": [
       {
