@@ -447,6 +447,15 @@
     kind: Exe
     id: Flow.Launcher.exe
     matching_strategy: Equals
+- name: GitKraken
+  identifier:
+    kind: Exe
+    id: gitkraken.exe
+    matching_strategy: Equals
+  float_identifiers:
+    - kind: Exe
+      id: gitkraken.exe
+      matching_strategy: Equals
 - name: GOG Galaxy
   identifier:
     kind: Exe
