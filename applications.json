@@ -470,6 +470,46 @@
       }
     ]
   },
+  "Cyberduck": {
+    "floating": [
+      [
+        {
+          "kind": "Exe",
+          "id": "Cyberduck.exe",
+          "matching_strategy": "Equals"
+        },
+        {
+          "kind": "Title",
+          "id": "Info",
+          "matching_strategy": "Equals"
+        }
+      ],
+      [
+        {
+          "kind": "Exe",
+          "id": "Cyberduck.exe",
+          "matching_strategy": "Equals"
+        },
+        {
+          "kind": "Title",
+          "id": "Preferences",
+          "matching_strategy": "Equals"
+        }
+      ],
+      [
+        {
+          "kind": "Exe",
+          "id": "Cyberduck.exe",
+          "matching_strategy": "Equals"
+        },
+        {
+          "kind": "Title",
+          "id": "Transfers",
+          "matching_strategy": "Equals"
+        }
+      ]
+    ]
+  },
   "DataGrip": {
     "tray_and_multi_window": [
       {
