@@ -946,6 +946,13 @@
   - kind: Exe
     id: PowerToys.PowerAccent.exe
     matching_strategy: Equals
+- name: Process Explorer
+  identifier:
+    kind: Exe
+    id: procexp(64|64a)?.exe
+    matching_strategy: Regex
+  options:
+    - tray_and_multi_window
 - name: Process Hacker
   identifier:
     kind: Exe
