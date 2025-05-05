@@ -2100,6 +2100,15 @@
       ]
     ]
   },
+  "Process Explorer": {
+    "tray_and_multi_window": [
+      {
+        "kind": "Exe",
+        "id": "procexp(64|64a)?.exe",
+        "matching_strategy": "Regex"
+      }
+    ]
+  },
   "Process Hacker": {
     "ignore": [
       {
