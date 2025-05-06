@@ -1774,6 +1774,15 @@
       }
     ]
   },
+  "Norton 360": {
+    "tray_and_multi_window": [
+      {
+        "kind": "Exe",
+        "id": "NortonUI.exe",
+        "matching_strategy": "Equals"
+      }
+    ]
+  },
   "Notion": {
     "ignore": [
       {
